@@ -1,0 +1,13 @@
+.settings/
+.idea/
+.vscode/
+build/
+target/
+states/
+.project
+.classpath
+.factorypath
+.DS_Store
+*.iml
+*.dot
+*.toolbox
